@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Resume Analysis & Job Recommendation System
 
 A modern, AI-themed web application designed to analyze resumes, calculate ATS scores, extract skills using NLP, and recommend jobs using Machine Learning techniques.
@@ -16,3 +17,6 @@ A modern, AI-themed web application designed to analyze resumes, calculate ATS s
 2. Activate environment.
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the app: `python app.py`
+=======
+# Resume-Analysis
+>>>>>>> ac0b636fe5b8d25ffec444a63364193901f2d916
